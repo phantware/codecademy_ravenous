@@ -1,5 +1,7 @@
 # codecademy_ravenous
 
+Here is the link to the pageup host page: https://phantware.github.io/codecademy_ravenous/.
+
 Welcome to the first installment of the Ravenous project!
 
 Over the next couple of weeks, you’ll build a website called “Ravenous”, a Yelp-like clone.
